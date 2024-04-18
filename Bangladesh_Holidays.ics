@@ -1,0 +1,512 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bangladesh Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+SUMMARY:Shaheed Day
+DTSTART;VALUE=DATE:20230221
+DTEND;VALUE=DATE:20230221
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/shaheed-day.php to know more about Shaheed Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89dfb7b1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shab e-Barat
+DTSTART;VALUE=DATE:20230308
+DTEND;VALUE=DATE:20230308
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/shab-e-barat.php to know more about Shab e-Barat. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89dfc251697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheikh Mujibur Rahman 's Birthday
+DTSTART;VALUE=DATE:20230317
+DTEND;VALUE=DATE:20230317
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/mujibur-rahman-birthday.php to know more about Sheikh Mujibur Rahman 's Birthday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89dfca31697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Independence Day
+DTSTART;VALUE=DATE:20230326
+DTEND;VALUE=DATE:20230326
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/independence-day.php to know more about Independence Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89dfd0e1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengali New Year / Bihu
+DTSTART;VALUE=DATE:20230414
+DTEND;VALUE=DATE:20230414
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/bihu-bengali-new-year.php to know more about Bengali New Year / Bihu. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89dfd891697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laylat al Qadr
+DTSTART;VALUE=DATE:20230418
+DTEND;VALUE=DATE:20230418
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/laylat-al-kadr.php to know more about Laylat al Qadr. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89dfe011697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid Ul Fitr Holiday
+DTSTART;VALUE=DATE:20230421
+DTEND;VALUE=DATE:20230421
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid Ul Fitr Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89dfea31697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumatul Bidah
+DTSTART;VALUE=DATE:20230421
+DTEND;VALUE=DATE:20230421
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/jumatul-bidah.php to know more about Jumatul Bidah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89dff621697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid Ul Fitr
+DTSTART;VALUE=DATE:20230422
+DTEND;VALUE=DATE:20230422
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid Ul Fitr. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e000d1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid Ul Fitr Holiday
+DTSTART;VALUE=DATE:20230423
+DTEND;VALUE=DATE:20230423
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid Ul Fitr Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e008e1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddha Purnima
+DTSTART;VALUE=DATE:20230505
+DTEND;VALUE=DATE:20230505
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/vesak-day.php to know more about Buddha Purnima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e00f41697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid ul-Adha-Holiday
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230628
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid ul-Adha-Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e01751697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid ul-Adha
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230629
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid ul-Adha. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e01f61697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid ul-Adha-Holiday
+DTSTART;VALUE=DATE:20230630
+DTEND;VALUE=DATE:20230630
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid ul-Adha-Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e027b1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashura
+DTSTART;VALUE=DATE:20230729
+DTEND;VALUE=DATE:20230729
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/muharram.php to know more about Ashura. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e03021697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Mourning Day
+DTSTART;VALUE=DATE:20230815
+DTEND;VALUE=DATE:20230815
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/national-mourning-day.php to know more about National Mourning Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e038c1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shuba Janmashtami
+DTSTART;VALUE=DATE:20230906
+DTEND;VALUE=DATE:20230906
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/janmashtami.php to know more about Shuba Janmashtami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e040f1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid-e-Milad-un-Nabi
+DTSTART;VALUE=DATE:20230928
+DTEND;VALUE=DATE:20230928
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Eid-e-Milad-un-Nabi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e04931697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vijaya Dashami
+DTSTART;VALUE=DATE:20231024
+DTEND;VALUE=DATE:20231024
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/dussehra.php to know more about Vijaya Dashami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e052b1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victory Day
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231216
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/victory-day.php to know more about Victory Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e05bb1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231225
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e06431697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shaheed Day
+DTSTART;VALUE=DATE:20240221
+DTEND;VALUE=DATE:20240221
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/shaheed-day.php to know more about Shaheed Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e06cf1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shab e-Barat
+DTSTART;VALUE=DATE:20240226
+DTEND;VALUE=DATE:20240226
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/shab-e-barat.php to know more about Shab e-Barat. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e076c1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheikh Mujibur Rahman 's Birthday
+DTSTART;VALUE=DATE:20240317
+DTEND;VALUE=DATE:20240317
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/mujibur-rahman-birthday.php to know more about Sheikh Mujibur Rahman 's Birthday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e08091697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Independence Day
+DTSTART;VALUE=DATE:20240326
+DTEND;VALUE=DATE:20240326
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/independence-day.php to know more about Independence Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e089a1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumatul Bidah
+DTSTART;VALUE=DATE:20240405
+DTEND;VALUE=DATE:20240405
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/jumatul-bidah.php to know more about Jumatul Bidah. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e09331697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laylat al Qadr
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240406
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/islam/laylat-al-kadr.php to know more about Laylat al Qadr. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e09d41697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid Ul Fitr Holiday
+DTSTART;VALUE=DATE:20240409
+DTEND;VALUE=DATE:20240409
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid Ul Fitr Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0a681697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid Ul Fitr
+DTSTART;VALUE=DATE:20240410
+DTEND;VALUE=DATE:20240410
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid Ul Fitr. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0af71697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid Ul Fitr Holiday
+DTSTART;VALUE=DATE:20240411
+DTEND;VALUE=DATE:20240411
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid Ul Fitr Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0b871697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bengali New Year / Bihu
+DTSTART;VALUE=DATE:20240414
+DTEND;VALUE=DATE:20240414
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/bihu-bengali-new-year.php to know more about Bengali New Year / Bihu. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0c181697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddha Purnima
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240523
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/vesak-day.php to know more about Buddha Purnima. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0cab1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid ul-Adha-Holiday
+DTSTART;VALUE=DATE:20240616
+DTEND;VALUE=DATE:20240616
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid ul-Adha-Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0d3b1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid ul-Adha
+DTSTART;VALUE=DATE:20240617
+DTEND;VALUE=DATE:20240617
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid ul-Adha. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0dd21697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid ul-Adha-Holiday
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240618
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid ul-Adha-Holiday. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0e741697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashura
+DTSTART;VALUE=DATE:20240717
+DTEND;VALUE=DATE:20240717
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/muharram.php to know more about Ashura. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0f101697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Mourning Day
+DTSTART;VALUE=DATE:20240815
+DTEND;VALUE=DATE:20240815
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/national-mourning-day.php to know more about National Mourning Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e0fb11697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shuba Janmashtami
+DTSTART;VALUE=DATE:20240826
+DTEND;VALUE=DATE:20240826
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/janmashtami.php to know more about Shuba Janmashtami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e10441697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eid-e-Milad-un-Nabi
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240916
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Eid-e-Milad-un-Nabi. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e10dc1697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vijaya Dashami
+DTSTART;VALUE=DATE:20241013
+DTEND;VALUE=DATE:20241013
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/dussehra.php to know more about Vijaya Dashami. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e11751697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victory Day
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241216
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/bangladesh/victory-day.php to know more about Victory Day. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e12061697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241225
+LOCATION:Bangladesh
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. \n\n Like us on Facebook: http://fb.com/calendarlabs to get updates
+UID:6527de89e12991697111689@calendarlabs.com
+DTSTAMP:20231012T115449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
